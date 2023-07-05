@@ -1,0 +1,84 @@
+body {
+    background-color: #1a1a1a;
+    color: #ffffff;
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .container {
+    width: 80%;
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 40px;
+  }
+  
+  header {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .navigation {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .navigation li {
+    display: inline-block;
+    margin-right: 20px;
+  }
+  
+  .navigation a {
+    color: #ffffff;
+    text-decoration: none;
+    transition: color 0.3s ease;
+  }
+  
+  .navigation a:hover {
+    color: #ff4081;
+  }
+  
+  .branding {
+    margin-top: 40px;
+  }
+  
+  .title {
+    font-size: 36px;
+    color: #ff4081;
+    margin-bottom: 10px;
+  }
+  
+  .slogan {
+    font-size: 18px;
+    margin-bottom: 20px;
+  }
+  
+  .logo {
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    margin-left: 10px;
+    vertical-align: middle;
+  }
+  
+  .chat-icon {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background-color: #ff4081;
+    color: #ffffff;
+    border-radius: 50%;
+    width: 60px;
+    height: 60px;
+    text-align: center;
+    line-height: 60px;
+    font-size: 24px;
+    transition: background-color 0.3s ease;
+    text-decoration: none;
+  }
+  
+  .chat-icon:hover {
+    background-color: #ff669a;
+  }
+  
