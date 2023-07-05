@@ -10,7 +10,7 @@ body {
     width: 80%;
     max-width: 960px;
     margin: 0 auto;
-    padding: 40px;
+    padding: 200px;
   }
   
   header {
@@ -77,8 +77,8 @@ body {
 
   .logo {
     display: inline-block;
-    width: 80px; /* Adjust the width as per your requirement */
-    height: 80px; /* Adjust the height as per your requirement */
+    width: 200px; /* Adjust the width as per your requirement */
+    height: 200px; /* Adjust the height as per your requirement */
     margin-left: 10px;
     vertical-align: middle;
 }
