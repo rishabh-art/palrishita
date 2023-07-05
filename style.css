@@ -81,4 +81,23 @@ body {
   .chat-icon:hover {
     background-color: #ff669a;
   }
-  
+
+  .logo {
+    display: inline-block;
+    width: 80px; /* Adjust the width as per your requirement */
+    height: 80px; /* Adjust the height as per your requirement */
+    margin-left: 10px;
+    vertical-align: middle;
+}
+
+.container a.button {
+    font-family: 'Roboto', sans-serif; /* Add this line to set the font style */
+    font-weight: bold; /* Add this line to make the text bold */
+    font-size: 18px; /* Add this line to set the font size */
+    color: #ffffff; /* Add this line to set the text color */
+    text-decoration: none; /* Add this line to remove underline */
+}
+
+.container a.button:hover {
+    color: #ff4081;
+}
