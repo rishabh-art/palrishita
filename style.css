@@ -54,13 +54,6 @@ body {
     margin-bottom: 20px;
   }
   
-  .logo {
-    display: inline-block;
-    width: 40px;
-    height: 40px;
-    margin-left: 10px;
-    vertical-align: middle;
-  }
   
   .chat-icon {
     position: fixed;
